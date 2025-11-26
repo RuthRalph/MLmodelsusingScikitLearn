@@ -1,3 +1,5 @@
+Check this predictive maintenance dashboard I created: https://ruthralph.streamlit.app/
+
 I learnt:
 supervised learning: classification and regression.
 unsupervised learning: clustering.
